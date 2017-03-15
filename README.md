@@ -1,2 +1,2 @@
 # awesome_gallery
-arturkat.github.io/awesome_gallery
+https://www.arturkat.github.io/awesome_gallery
